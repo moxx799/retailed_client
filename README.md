@@ -4,7 +4,7 @@ The configs in the census_foundation_models.json
 The folder structure should be
 
 ```
-HOMEWORK
+retailed_client
 ├── build(created by setup.py)
 ├── model
 ├── cluster_tabular_models
