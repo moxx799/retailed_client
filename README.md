@@ -27,7 +27,8 @@ pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https
 
 ````
 The CUDA driver is 12.4, and the GPU is RTX-A6000; the peak GPU usage is ~12GB, so you may need to change the batch size as well as change the PyTorch version if your hardware does not support CUDA 12.4.
-**** If you are running the code in a non-interactive environment, please activate your environment and 
+
+*If you are running the code in a non-interactive environment, please activate your environment and*
 To authenticate in a non-interactive environment:
   1. Open https://ux.priorlabs.ai in a browser and log in (or register)
   2. Accept the license on the Licenses tab
