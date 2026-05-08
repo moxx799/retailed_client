@@ -1,5 +1,17 @@
 # Retired client project Description
-Takehome work, the overall structure contains two parts, for the classification model, it is located in cluster_tabular_models; to the segmentation and data inspection, it is in the main jupyternotebook file.
+Take-home work: the overall structure contains two parts. For the classification model, it is located in cluster_tabular_models; for the segmentation and data inspection, it is in the main Jupyter notebook file.
+The configs in the census_foundation_models.json
+The folder structure should be
+HOMEWORK
+├── build(created by setup.py)
+├── model
+├── cluster_tabular_models
+├── requirements
+├── census-bureau.columns(not provided here)
+├── census-bureau.data(not provided here)
+├── clustering_analysis.ipynb
+├── data_inspect.ipynb
+└── setup.py
 # Installation:
 Use the setup.py to install the environment.
 ```bash
@@ -20,7 +32,16 @@ To authenticate in a non-interactive environment:
 
 
 # Train
+In the file cluster_tabular_models, run
+```bash
+source activate census-cluster
+python scripts/train_census_foundation_models.py --config configs/census_foundation_models.json
+```
 
 # Eval
-
+A Jupyter Notebook file in 
+```
+cluster_tabular_models/notebooks/evaluate_censusu_foundation_models.ipynb
+```
 # Visualization tutorial
+Data inspection and segmentation (clustering) are finished in clustering_analysis.ipynb
