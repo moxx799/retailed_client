@@ -1,4 +1,4 @@
-# Retired client project Description
+# Retired client project description
 Take-home project: the overall structure contains two parts. For the classification model, it is located in cluster_tabular_models; for the segmentation and data inspection, it is in the main Jupyter notebook file. The configs are in the census_foundation_models.json
 
 The folder structure should be
