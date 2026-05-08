@@ -2,6 +2,8 @@
 Take-home work: the overall structure contains two parts. For the classification model, it is located in cluster_tabular_models; for the segmentation and data inspection, it is in the main Jupyter notebook file.
 The configs in the census_foundation_models.json
 The folder structure should be
+
+```
 HOMEWORK
 ├── build(created by setup.py)
 ├── model
@@ -12,6 +14,8 @@ HOMEWORK
 ├── clustering_analysis.ipynb
 ├── data_inspect.ipynb
 └── setup.py
+```
+
 # Installation:
 Use the setup.py to install the environment.
 ```bash
