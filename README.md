@@ -17,7 +17,7 @@ HOMEWORK
 ```
 
 # Installation:
-Use the setup.py to install the environment.
+Follow step by step.
 ```bash
 conda create -n census-cluster python=3.11
 conda activate census-cluster
