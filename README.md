@@ -1,5 +1,5 @@
 # Retired client project Description
-Takehome work
+Takehome work, the overall structure contains two parts, for the classification model, it is located in cluster_tabular_models; to the segmentation and data inspection, it is in the main jupyternotebook file.
 # Installation:
 Use the setup.py to install the environment.
 ```bash
