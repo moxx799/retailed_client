@@ -48,9 +48,9 @@ A Jupyter Notebook file in
 ```
 cluster_tabular_models/notebooks/evaluate_censusu_foundation_models.ipynb
 ```
-# Visualization tutorial
+# Data inspection and segmentation
 Data inspection and segmentation (clustering) are finished in 
 
 ```bash
-clustering_analysis.ipynb
+clustering_analysis.ipynb data_inspect.ipynb
 ```
