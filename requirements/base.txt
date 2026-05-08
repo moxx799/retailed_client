@@ -1,0 +1,16 @@
+# Core scientific stack
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.5
+scipy>=1.13
+
+# Modeling and clustering
+networkx>=3.3
+umap-learn>=0.5.6
+catboost>=1.2.10
+tabpfn>=7.1.1
+tabicl>=0.1.3
+
+# Plotting
+matplotlib>=3.8
+seaborn>=0.13

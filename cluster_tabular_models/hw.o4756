@@ -1,0 +1,13 @@
+Default metric period is 5 because AUC is/are not implemented for GPU
+Default metric period is 5 because AUC is/are not implemented for GPU
+Default metric period is 5 because AUC is/are not implemented for GPU
+Default metric period is 5 because AUC is/are not implemented for GPU
+Default metric period is 5 because AUC is/are not implemented for GPU
+INFO: You are downloading 'tabicl-classifier-v2-20260212.ckpt', the latest best-performing version, used in our TabICLv2 paper.
+
+Checkpoint 'tabicl-classifier-v2-20260212.ckpt' not cached.
+ Downloading from Hugging Face Hub (jingang/TabICL).
+
+Saved /home/lhuang37/repos/homework/cluster_tabular_models/outputs/census_foundation_models/fold_metrics.csv
+Saved /home/lhuang37/repos/homework/cluster_tabular_models/outputs/census_foundation_models/summary_metrics.csv
+Saved /home/lhuang37/repos/homework/cluster_tabular_models/outputs/census_foundation_models/resolved_config.json

@@ -1,0 +1,3 @@
+jupyterlab>=4.2
+ipykernel>=6.29
+notebook>=7.2
